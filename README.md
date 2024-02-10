@@ -7,5 +7,5 @@
 - [Guía de matplotlib](https://matplotlib.org/stable/tutorials/index.html)
 - [Guía de numpy](https://numpy.org/doc/stable/reference/generated/numpy.meshgrid.html)
 - [Guía de sympy](https://claudiovz.github.io/scipy-lecture-notes-ES/packages/sympy.html)
-## <img height="30" src="https://i.gifer.com/XOsX.gif"/> Material del curso Métodos Computacionales 2
+## <img height="30" src="https://github.com/BySeru/BySeru/blob/main/BySeru/kirby.gif"/> Material del curso Métodos Computacionales 2
 > [GitHub De la Magistral](https://github.com/asegura4488/MetodosComputacionalesII)
