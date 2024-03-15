@@ -1,4 +1,4 @@
-# Métodos Computacionales 2 FAVOR CORRER EL PUNTO 10 DEL PARCIAL 3 OTRA VEZ!!!!!!!
+# Métodos Computacionales 2
 ## <img height="30" src="https://static.wikia.nocookie.net/dragonball/images/4/40/E91sss.gif/revision/latest?cb=20161007135815&path-prefix=es"/> Integrantes
 - Seru López
 - Sergio Montoya
